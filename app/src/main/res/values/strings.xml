@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">30 Days of UI/UX</string>
+    <string name="day">Day %1$d</string>
+
+    <string name="tip1_title">Visual Hierarchy</string>
+    <string name="tip1_desc">Guide the user\'s eye to the most important elements first using size, color, and spacing.</string>
+
+    <string name="tip2_title">Contrast</string>
+    <string name="tip2_desc">Use high contrast for text to ensure readability and to make important elements stand out.</string>
+
+    <string name="tip3_title">Typography</string>
+    <string name="tip3_desc">Choose fonts that are easy to read and limit the number of different typefaces used.</string>
+
+    <string name="tip4_title">Color Theory</string>
+    <string name="tip4_desc">Use colors to evoke emotions and create a cohesive look and feel for your application.</string>
+
+    <string name="tip5_title">White Space</string>
+    <string name="tip5_desc">Don\'t crowd your UI. Use negative space to let elements breathe and reduce cognitive load.</string>
+
+    <string name="tip6_title">Consistency</string>
+    <string name="tip6_desc">Keep UI elements and behaviors consistent throughout the app to reduce learning time.</string>
+
+    <string name="tip7_title">User Feedback</string>
+    <string name="tip7_desc">Always provide feedback for user actions, such as button presses or form submissions.</string>
+
+    <string name="tip8_title">Affordance</string>
+    <string name="tip8_desc">Design elements so their function is obvious (e.g., buttons should look clickable).</string>
+
+    <string name="tip9_title">Accessibility</string>
+    <string name="tip9_desc">Ensure your app is usable by everyone, including people with visual or motor impairments.</string>
+
+    <string name="tip10_title">User Control</string>
+    <string name="tip10_desc">Give users the freedom to undo actions and navigate easily through the app.</string>
+
+    <string name="tip11_title">Error Prevention</string>
+    <string name="tip11_desc">Design your UI to prevent errors from happening in the first place whenever possible.</string>
+
+    <string name="tip12_title">Recognition vs Recall</string>
+    <string name="tip12_desc">Minimize the user\'s memory load by making objects, actions, and options visible.</string>
+
+    <string name="tip13_title">Flexibility</string>
+    <string name="tip13_desc">Provide shortcuts and accelerators for expert users while keeping it simple for novices.</string>
+
+    <string name="tip14_title">Aesthetic Design</string>
+    <string name="tip14_desc">Keep it simple. Dialogs should not contain information that is irrelevant or rarely needed.</string>
+
+    <string name="tip15_title">Help &amp; Documentation</string>
+    <string name="tip15_desc">Provide easy-to-search documentation that focuses on the user\'s task.</string>
+
+    <string name="tip16_title">Fitts\'s Law</string>
+    <string name="tip16_desc">The time to acquire a target is a function of the distance to and size of the target.</string>
+
+    <string name="tip17_title">Hick\'s Law</string>
+    <string name="tip17_desc">The time it takes to make a decision increases with the number and complexity of choices.</string>
+
+    <string name="tip18_title">Miller\'s Law</string>
+    <string name="tip18_desc">The average person can only keep 7 (plus or minus 2) items in their working memory.</string>
+
+    <string name="tip19_title">Jakob\'s Law</string>
+    <string name="tip19_desc">Users spend most of their time on other sites. They prefer your site to work the same way.</string>
+
+    <string name="tip20_title">Gestalt Principles</string>
+    <string name="tip20_desc">Our brains naturally group similar elements together to make sense of complex images.</string>
+
+    <string name="tip21_title">Proximity</string>
+    <string name="tip21_desc">Related items should be placed close together to show they are part of a group.</string>
+
+    <string name="tip22_title">Similarity</string>
+    <string name="tip22_desc">Elements that look similar are perceived as part of the same group or having the same function.</string>
+
+    <string name="tip23_title">Continuity</string>
+    <string name="tip23_desc">Eyes follow the smoothest path when looking at lines, regardless of how they were drawn.</string>
+
+    <string name="tip24_title">Closure</string>
+    <string name="tip24_desc">The brain will fill in missing parts of a design or image to create a whole.</string>
+
+    <string name="tip25_title">Common Fate</string>
+    <string name="tip25_desc">Elements that move in the same direction are perceived as more related than those that don\'t.</string>
+
+    <string name="tip26_title">Mental Models</string>
+    <string name="tip26_desc">Users have a preconceived idea of how things work based on their past experiences.</string>
+
+    <string name="tip27_title">Progressive Disclosure</string>
+    <string name="tip27_desc">Show only what is necessary at the moment to avoid overwhelming the user.</string>
+
+    <string name="tip28_title">Microinteractions</string>
+    <string name="tip28_desc">Small, subtle animations that provide feedback and make the app feel alive.</string>
+
+    <string name="tip29_title">Mobile First</string>
+    <string name="tip29_desc">Design for the smallest screen first to ensure the core experience is solid.</string>
+
+    <string name="tip30_title">Iteration</string>
+    <string name="tip30_desc">Design is a process. Continuously test, gather feedback, and improve your app.</string>
+</resources>
